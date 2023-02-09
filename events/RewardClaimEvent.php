@@ -1,6 +1,6 @@
 <?php
 
-namespace Wertzui123\Rewards\events;
+namespace Daily\events;
 
 use pocketmine\event\Cancellable;
 use pocketmine\event\CancellableTrait;
