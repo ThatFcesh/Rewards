@@ -1,9 +1,3 @@
-# Rewards
-<a href="https://poggit.pmmp.io/p/Rewards"><img src="https://poggit.pmmp.io/shield.state/Rewards"></a>
-<a href="https://poggit.pmmp.io/p/Rewards"><img src="https://poggit.pmmp.io/shield.api/Rewards"></a>
-<br>A (daily) reward plugin for PocketMine-MP servers.
-<br>The .phar can be found on <a href="https://poggit.pmmp.io/p/Rewards">poggit.</a>
-
 # Commands
 **/reward:**
 <br>Command to claim your reward
