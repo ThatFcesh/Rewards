@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Wertzui123\Rewards\commands;
+namespace Daily\commands;
 
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
